@@ -20,7 +20,7 @@ I enjoy building dashboards that actually guide decisions, designing models that
 Outside of work, I enjoy music, spending time in nature hiking and playing sports and I’m always curious to learn something new. For me, the best part of working with data is that “EUREKA” moment — when I interpret or I (could say) find the fact that is lying under the data.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://github.com/rengavk)
+### [🏆 Check Out My Full Portfolio Website](https://rengavk.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
